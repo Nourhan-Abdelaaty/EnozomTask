@@ -10,5 +10,9 @@ namespace Domain.Repos.CountryRepo
 {
     public interface ICountryRepo : IGenericRepo<Country>
     {
+        IEnumerable<Country> GetAllWithPopulation();
+         List<Country> GetOrEdit(List<Country> l);
+        public IEnumerable<Country> GetByName(String name);
+        IEnumerable<Country> GetCoutryByID(int id);
     }
 }

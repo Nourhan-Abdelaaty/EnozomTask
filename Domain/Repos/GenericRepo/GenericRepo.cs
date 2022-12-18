@@ -23,6 +23,7 @@ namespace Domain.Repos.GenericRepo
             return context.Set<entity>().Find(id);
         }
 
+
         public List<entity> GetAll()
         {
 
@@ -60,5 +61,10 @@ namespace Domain.Repos.GenericRepo
             context.SaveChanges();
         }
 
+
+
+
+
+       
     }
 }

@@ -15,6 +15,7 @@ namespace Domain.Repos.GenericRepo
         void Delete(entity e);
         void DeleteByID(int id);
         void savechanges();
+       
 
     }
 }
