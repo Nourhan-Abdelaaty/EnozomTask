@@ -1,0 +1,15 @@
+E:\tasks\Enozom software\Enozom-Software\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\tasks\Enozom software\Enozom-Software\Domain\bin\Debug\net6.0\Domain.dll
+E:\tasks\Enozom software\Enozom-Software\Domain\bin\Debug\net6.0\ref\Domain.dll
+E:\tasks\Enozom software\Enozom-Software\Domain\bin\Debug\net6.0\Domain.pdb
+E:\tasks\Enozom software\Enozom-Software\Domain\bin\Debug\net6.0\Data.dll
+E:\tasks\Enozom software\Enozom-Software\Domain\bin\Debug\net6.0\Data.pdb
+E:\tasks\Enozom software\Enozom-Software\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\tasks\Enozom software\Enozom-Software\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\tasks\Enozom software\Enozom-Software\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\tasks\Enozom software\Enozom-Software\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\tasks\Enozom software\Enozom-Software\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\tasks\Enozom software\Enozom-Software\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+E:\tasks\Enozom software\Enozom-Software\Domain\obj\Debug\net6.0\Domain.dll
+E:\tasks\Enozom software\Enozom-Software\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\tasks\Enozom software\Enozom-Software\Domain\obj\Debug\net6.0\Domain.pdb
