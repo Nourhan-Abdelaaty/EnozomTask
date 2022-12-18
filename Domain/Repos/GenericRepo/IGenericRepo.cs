@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Domain.Repos.GenericRepo
 {
-    internal interface IGenericRepo
+    public interface IGenericRepo<entity> where entity:class
     {
+        List<entity> GetAll();
+        entity? GetByID(int id);
+        entity Add(entity e);
+        void update(entity e);
+        void Delete(entity e);
+        void DeleteByID(int id);
+        void savechanges();
+
     }
 }
